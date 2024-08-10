@@ -1,0 +1,38 @@
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Added Component: Designator=Q?(TO254P1054X469X1930-3)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRLZ44N/Infineon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon / IR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRLZ44N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Infineon / IR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRLZ44N/Infineon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO254P1054X469X1930-3)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRLZ44N/Infineon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon / IR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRLZ44N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Infineon / IR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRLZ44N/Infineon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Net12v_1 Pin=Q?-3
+Added Net: Name=Net12v_1
+Added Pin To Net: NetName=Net12v_2 Pin=Q?-2
+Added Net: Name=Net12v_2
+Added Net: Name=NetD?_A
+Add Net: Net with name "NetD?_A" already exists
+Added Net: Name=NetD?_C
+Added Net: Name=NetM?_2
+Add Net: Net with name "NetM?_2" already exists
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetQ?_1" already exists
+Added Class: Name=sch
